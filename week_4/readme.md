@@ -8,3 +8,8 @@ week_4 updates
 <img width="812" alt="Bulk_result" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/f1adeb1f-b26f-449f-9498-add43b4d80de">
 <img width="593" alt="bulk_updation" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/7fdc8ba4-93b2-4d1d-ae03-16d626ab62af">
 <img width="585" alt="bullk_deletion" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/eb48bae6-e218-47d1-b8ad-3bec43a06dce">
+
+YCSB load and Run 
+
+![load_operation](https://github.com/ashrith5355/network_flow_db/assets/162978232/04faabe5-f25e-4273-8b58-361c6c358e30)
+![run_operation](https://github.com/ashrith5355/network_flow_db/assets/162978232/dd27b407-a92e-4c0f-835a-e5fa2328497b)
