@@ -36,7 +36,7 @@ CPU and Memory Utilization
 YCSB Bulk operations
 
 
-<img width="836" alt="YCSB bulk Operations" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/94dc28b1-9c1c-426e-922f-9a334358b091">
+<img width="691" alt="Screenshot 2024-06-06 at 11 08 58 AM" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/1be75775-9741-4146-8c98-ead68a51249e">
 
 
 Load Insertion Operations
