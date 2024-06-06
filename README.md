@@ -17,7 +17,7 @@ RUN Command : bin/ycsb run jdbc -P workloads/workloada -P jdbc-binding/conf/db.p
 Batch Operations
 
 
-<img width="690" alt="Batch insert,delete" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/33bca47d-e961-4d8c-b763-f315ee473d99">
+<img width="715" alt="Screenshot 2024-06-06 at 11 05 04 AM" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/212a6a35-623d-4a6f-882b-3d62817f6c08">
 
 
 
