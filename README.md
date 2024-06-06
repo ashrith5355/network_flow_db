@@ -24,7 +24,13 @@ Batch Operations
 Bulk Operations
 
 
-<img width="812" alt="Bulk_result" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/6991c38d-6c76-4c0a-a98b-6e6788e29d43">
+<img width="714" alt="Screenshot 2024-06-06 at 11 06 14 AM" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/e3dcdf11-cae8-4a84-80db-84237f3a5a6c">
+
+
+CPU and Memory Utilization
+
+
+<img width="504" alt="Screenshot 2024-06-06 at 11 07 43 AM" src="https://github.com/ashrith5355/network_flow_db/assets/162978232/e89207ce-7f96-4124-a906-7f6c13b662a9">
 
 
 YCSB Bulk operations
